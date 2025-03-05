@@ -77,6 +77,6 @@ spec:
 
 ## Requirements
 
-- Go 1.16 or later
+- Go 1.22 or later
 - Git installed and available in PATH
 - Bash shell
